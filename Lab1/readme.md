@@ -14,6 +14,7 @@ This is my first portfolio project for Web Dev Lab. I made it using only **HTML*
 ## How to Use
 1. Open `index.html` in your browser.  
 2. Use the navigation menu at the top to move between sections.  
-3. Try filling out the form (it doesn’t send anywhere yet since there’s no backend).  
+3. Try filling out the form (it doesn’t send anywhere yet since there’s no backend).
+4. Copy the image named "sdface" on the same folder as the html for the image to load.
 
 
